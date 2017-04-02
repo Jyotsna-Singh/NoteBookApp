@@ -10,7 +10,7 @@
 1.0.0
 
 ## Live Demo
- [Notebook App](http://jyotsnasingh-com.stackstaging.com/projects/Laravel/NotebookApp/)
+ [Notebook App](http://jyotsnasingh.com/projects/Laravel/NotebookApp/)
 
 ## Usage
 
