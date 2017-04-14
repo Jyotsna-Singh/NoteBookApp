@@ -14,10 +14,16 @@
 
 ## Usage
 
-**Home Page** | **All Notebooks** | **All notes**
---- | --- | ---
-Home Page of NotebookApp | View All notebooks, Create & Delete Notebooks | View All Notes in notebook, create, edit or delete note 
-![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/Notebookhome.PNG "Notebook Home")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/allnotebooks.PNG "All Notebooks")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/allnotes.PNG "All notes") 
+**Home Page** | **All Notebooks**
+--- | ---
+Home Page of NotebookApp | View All notebooks, Create & Delete Notebooks
+![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/Notebookhome.PNG "Notebook Home")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/allnotebooks.PNG "All Notebooks")
+
+**Create Notebook** | **All notes**
+--- | --- 
+Create Notebook | View All Notes in notebook, create, edit or delete note  
+![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/create-notebook.PNG "Create Notebook")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/allnotes.PNG "All notes") 
+
 
 **Note Page** | **Create Note Page**
 --- | --- 
