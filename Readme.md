@@ -17,12 +17,12 @@
 **Home Page** | **All Notebooks** | **All notes**
 --- | --- | ---
 Home Page of NotebookApp | View All notebooks, Create & Delete Notebooks | View All Notes in notebook, create, edit or delete note 
-![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/Notebookhome.PNG "Notebook|Home")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/allnotebooks.PNG "Notebook|All Notebooks")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/allnotes.PNG "Notebook|All notes") 
+![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/Notebookhome.PNG "Notebook Home")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/allnotebooks.PNG "All Notebooks")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/allnotes.PNG "All notes") 
 
 **Note Page** | **Create Note Page**
 --- | --- 
 View Individual Note | Create Note  
-![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/note.PNG "Notebook|Note")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/createnote.PNG "Notebook|CreateNote") 
+![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/note.PNG "Note")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/createnote.PNG "CreateNote") 
 
 
 ## Vendors
