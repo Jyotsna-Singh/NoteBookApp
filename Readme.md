@@ -15,7 +15,7 @@
 1.0.0
 
 ## Live Demo - NoteBook App
-[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/blue-button.PNG)](http://jyotsnasingh.com/projects/Laravel/NotebookApp/)
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/Laravel/NotebookApp/)
 
 ## Usage
 
