@@ -1,4 +1,9 @@
-# Notebook App
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/logo.PNG">
+</p>
+
+[![License](https://img.shields.io/packagist/l/cakephp/app.svg?style=flat-square)](http://jyotsnasingh.com/projects/Laravel/NotebookApp/)
 
 **NoteBook App** is a web based PHP application built with Laravel 5.3. The app allows the user to create multiple 'Notebooks' and further add 'Notes' to their Notebooks. The App has full CRUD functionality. Users can create,edit,delete,view their notes and notebooks
 
@@ -9,27 +14,40 @@
 ## Version
 1.0.0
 
-## Live Demo
- [Notebook App](http://jyotsnasingh.com/projects/Laravel/NotebookApp/)
+## Live Demo - NoteBook App
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/blue-button.PNG)](http://jyotsnasingh.com/projects/Laravel/NotebookApp/)
 
 ## Usage
 
-**Home Page** | **All Notebooks**
---- | ---
-Home Page of NotebookApp | View All notebooks, Create & Delete Notebooks
-![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/Notebookhome.PNG "Notebook Home")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/allnotebooks.PNG "All Notebooks")
+**Home Page** | 
+--- | 
+Home Page of NotebookApp | 
+![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/Notebookhome.PNG "Notebook Home")  | 
 
-**Create Notebook** | **All notes**
---- | --- 
-Create Notebook | View All Notes in notebook, create, edit or delete note  
-![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/create-notebook.PNG "Create Notebook")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/allnotes.PNG "All notes") 
+**All Notebooks** | 
+--- | 
+View All notebooks, Create & Delete Notebooks | 
+![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/allnotebooks.PNG "All Notebooks") | 
 
+**Create Notebook** | 
+--- |  
+Create Notebook |  
+![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/create-notebook.PNG "Create Notebook")  | 
 
-**Note Page** | **Create Note Page**
---- | --- 
-View Individual Note | Create Note  
-![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/note.PNG "Note")  | ![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/createnote.PNG "CreateNote") 
+**All notes** | 
+--- | 
+View All Notes in notebook, create, edit or delete note  | 
+![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/allnotes.PNG "All notes")  | 
 
+**Note Page** | 
+--- | 
+View Individual Note | 
+![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/note.PNG "Note")  | 
+
+**Create Note Page** | 
+---  | 
+Create Note   | 
+![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/createnote.PNG "CreateNote")  | 
 
 ## Vendors
 Laravel - [https://laravel.com/](https://laravel.com/) 
