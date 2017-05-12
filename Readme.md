@@ -19,6 +19,11 @@
 
 ## Usage
 
+**Login Page** | 
+--- | 
+Login Page of NotebookApp | 
+![alt text](https://github.com/Jyotsna-Singh/NoteBookApp/blob/master/public/img/notebook-login.PNG "Notebook Login")  | 
+
 **Home Page** | 
 --- | 
 Home Page of NotebookApp | 
